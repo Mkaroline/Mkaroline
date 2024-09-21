@@ -1,5 +1,6 @@
 ### Olá!👋
- Sou Maria Karoline, tenho 21 anos e sou estudante de Tecnologia da informação. Atualmente estou programando em C e estou estudando a linguagem Python, e quero aprimorar cada dia mais os meus conhecimentos na área!
+
+
 
  ![Mkaroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkaroline&show_icons=true&theme=radical)
 
