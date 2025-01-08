@@ -1,7 +1,6 @@
 ### Olá, sejam todos bem-vindos !👋
 
 
-
  ![Mkaroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkaroline&show_icons=true&theme=radical)
 
 ###  Estudando neste momento:
@@ -10,7 +9,7 @@
 <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
- <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white" />
+<img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </div>
 
 ###  Mídia
